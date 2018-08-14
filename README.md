@@ -1,5 +1,5 @@
 # ComputingSummerSchool2018
-2018/07/30-08/03に行われたKEK主催のComputing Summer Schoolで行った課題.
+2018/07/30-08/03にKEKで行われたComputing Summer Schoolにて行った課題.
 
 ## exercise2
 ここでは、二つのデータセットを共通のパラメーターを含むモデルで同時フィットする方法を学ぶ。例えば、解析によって以下の二つのデータセットが得られたとする:
